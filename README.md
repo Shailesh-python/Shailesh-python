@@ -1,7 +1,7 @@
 ### Hi there, I’m Shailesh Vishwakarma 👋
-## I’m a SQL developer, Python beginner and VBA developer!
+## I have good experience in Power BI, SQL, EDA and VBA!
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning python 🤣
 - 👯 I’m looking to collaborate with other
-- 🥅 2021 Goals: Study and contribute to Opensource projects
+- 🥅 2022 Goals: Study and upskill yoursel
 - ⚡ Fun fact: I love to learn
