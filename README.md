@@ -6,7 +6,7 @@
 
 - Currently learning **Python & Data Modeling with PowerBi**
 
-- I’m looking to collaborate on **SQL & Power BI**
+- Looking to collaborate on **SQL & Power BI**
 
 - See my PowerBI [**dashboards**](https://www.novypro.com/profile_projects/shaileshvishwakarma)
 
