@@ -8,11 +8,11 @@
 
 - I’m looking to collaborate on **SQL & Power BI**
 
-- All of my dashboards are available [**here**](https://www.novypro.com/profile_projects/shaileshvishwakarma)
+- PowerBI dashboards are available [**here**](https://www.novypro.com/profile_projects/shaileshvishwakarma)
 
-- Ask me about **Powerbi, SQL, Python, VBA, Excel**
+- Task about **Powerbi, SQL, Python, VBA, Excel**
 
-- How to reach me **shailesh.vishwakarma25@gmail.com**
+- Reach me at **shailesh.vishwakarma25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
