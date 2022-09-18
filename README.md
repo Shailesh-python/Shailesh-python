@@ -8,9 +8,7 @@
 
 - I’m looking to collaborate on **SQL & Power BI**
 
-- All of my dashboards are available [here](https://www.novypro.com/profile_projects/shaileshvishwakarma)
-
-- All of my projects are available[https://www.novypro.com/profile_projects/shaileshvishwakarma](here)
+- All of my dashboards are available [**here**](https://www.novypro.com/profile_projects/shaileshvishwakarma)
 
 - Ask me about **Powerbi, SQL, Python, VBA, Excel**
 
