@@ -26,7 +26,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shailesh-python&show_icons=true&locale=en&layout=large" alt="shailesh-python" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shailesh-python&show_icons=true&locale=en" alt="shailesh-python" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shailesh-python&" alt="shailesh-python" /></p>
 
